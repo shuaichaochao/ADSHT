@@ -106,8 +106,6 @@ def load_config():
     # parser.add_argument('--root', default='./dataset', help='Path of dataset')
     parser.add_argument('--root', default='/data02/WeiHongxi/Node95/hechao/dataset', help='Path of dataset')
     # parser.add_argument('--dataset', default='nus-wide-tc21', help='Dataset name.')
-    # parser.add_argument('--root', default='/home/WeiHongxi/HeChao/datacode/hash/VIT_Hash_MM/dataset/NUS-WIDE',
-    #                     help='Path of dataset')
     # parser.add_argument('--root', default='/data02/WeiHongxi/Node95/hechao/dataset/NUS-WIDE',
     #                     help='Path of dataset')
     parser.add_argument('--batch_size', default=64, type=int,
