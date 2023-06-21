@@ -8,3 +8,6 @@ Datasets is available from [here](https://github.com/TreezzZ/ADSH_PyTorch)
 
 # Models
 Vit pre-trained model is available from [here](https://github.com/google-research/vision_transformer#available-vit-models), The backbone network used in this paper is ViT-L_32.npz.
+
+# Pytorch
+pytoch=1.7.0
